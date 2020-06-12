@@ -1,3 +1,5 @@
+Estudando de Vuex
+
 # vue_todo_manager
 
 ## Project setup
